@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced React, Web APIs, Node.js, Tailwind CSS**
 
-- 👨‍💻 My personal web page: [https://muhammet-dev.vercel.app/](https://muhammet-dev.vercel.app/)
+- 👨‍💻 My personal web page: [[https://muhammet-dev.vercel.app/](https://muhammet-gamma.vercel.app)](https://muhammet-dev.vercel.app/)
 
 - 💬 Ask me about **React.js, HTML, CSS, REST APIs**
 
