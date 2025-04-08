@@ -5,7 +5,6 @@
 <h3 align="center">I am a passionate Web Developer from Turkey</h3>
 
 
-
 - 🔭 I’m currently working on **Frontend projects using React.js, REST APIs and responsive design**
 
 - 🌱 I’m currently learning **Advanced React, Web APIs, Node.js, Tailwind CSS**
@@ -47,7 +46,16 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
+  
+  <!-- Adding Java and C# icons -->
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
 </p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=muhammetakkas&label=Profile%20views&color=0e75b6&style=flat" alt="muhammetakkas" />
 </p>
