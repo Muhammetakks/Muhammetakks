@@ -60,4 +60,3 @@
   <img src="https://komarev.com/ghpvc/?username=muhammetakkas&label=Profile%20views&color=0e75b6&style=flat" alt="muhammetakkas" />
 </p> 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
